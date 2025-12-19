@@ -1,0 +1,10 @@
+ body {
+    background-color: silver;
+    margin: 20;
+ }
+ .static{
+    border: 10px solid black;
+    border: radius 8px;
+    margin: 10px;
+    padding: 10px;
+ }
